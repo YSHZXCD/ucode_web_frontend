@@ -1,0 +1,37 @@
+footer {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+    padding: 0 30px;
+}
+
+.soul_stone {
+    background-color: orange;
+}
+
+.time_stone {
+    background-color: green;
+}
+
+.space_stone {
+    background-color: blue;
+}
+
+.mind_stone {
+    background-color: yellow;
+}
+
+.reality_stone {
+    background-color: red;
+}
+
+.power_stone {
+    background-color: purple;
+}

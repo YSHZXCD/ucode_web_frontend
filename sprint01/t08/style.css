@@ -1,0 +1,29 @@
+table {
+    width: 70%;
+    height: 400px;
+    border: 3px solid black;
+}
+
+a {
+    color: white;
+}
+
+th {
+    color: #ffe369;
+    font-weight: bold;
+    background-color: #860604;
+    padding: 10px;
+}
+
+td {
+    background-color: #FFECD7;
+    text-align: center;
+    color: midnightblue;
+}
+
+td:nth-child(1) {
+    background-color: #A63833;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
